@@ -1,13 +1,15 @@
-# Material for the git-lecture of the HU Python Course 2015
+## Material for the git-lecture 
+## of the HU Python Course 2015
 
-## Slides:
+### Slides:
 
-### For theory:
+#### For theory:
 git_python_course.pptx
 
-### and practice
+#### and practice:
 git_practice.pdf
 Histories of the workflows will follow soon!
 
-## Exercise:
+
+### Exercises:
 exercise.pdf
