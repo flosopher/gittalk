@@ -1,7 +1,7 @@
-'''
+```
 ## Material for the git-lecture 
 ## of the HU Python Course 2015
-'''
+```
 
 ### Slides:
 
